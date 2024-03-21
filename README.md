@@ -1,7 +1,4 @@
 
-# Redmi File: A Presentation on Product Management and Development
-
-
 - 👋 Hi, I’m Tyhran. Welcome to my presentation on Redmi File.
 - 👀 I’m interested in product management and development, which is why I chose Redmi File as my project.
 
